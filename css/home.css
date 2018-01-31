@@ -1,0 +1,35 @@
+.body-gourmet {
+  background: url(../img/logo.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+
+}
+
+.superior{
+  background-color: #178cba;
+  border: 1px solid blue;
+  margin: auto;
+  border-radius: 5px;
+}
+
+.contenido{
+  margin-top: 3%;
+}
+
+.plt{
+  width: 200px;
+  height: auto;
+  padding: 1em;
+}
+
+.principal{
+  background-color: rgba(248, 152, 114, 0.7);
+  padding: 1%;
+}
+
+.Favoritos{
+  padding: 4%;
+}
