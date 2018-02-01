@@ -38,3 +38,14 @@
   width: 100%;
   height: auto;
 }
+
+.comentarios{
+  border: solid 1px black;
+  margin-bottom: 2%;
+}
+
+.retrato{
+  width: 50%;
+  height: auto;
+  margin: 2%;
+}
