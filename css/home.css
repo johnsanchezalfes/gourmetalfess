@@ -28,11 +28,22 @@
 .principal{
   background-color: rgba(248, 152, 114, 0.7);
   padding: 1%;
+  border-radius: 5px;
+  border: solid 1px red;
 }
 
 .Favoritos{
   padding: 4%;
 }
+
+div[class^="publicacion"]{
+  border: solid 1px #178cba;
+}
+
+.buscar{
+  border: solid 1px #178cba;
+}
+
 
 .publi1{
   width: 100%;
